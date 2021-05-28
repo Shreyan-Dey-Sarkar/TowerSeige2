@@ -1,1 +1,1 @@
-# OUTPUT LINK: https://shreyan-dey-sarkar.github.io/TowerSeige2/
+# output link: https://shreyan-dey-sarkar.github.io/TowerSeige2/
